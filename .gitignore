@@ -1,0 +1,7 @@
+obj/
+bin/
+packages/
+.paket/
+!.paket/paket.bootstrapper.exe
+.vscode/
+paket-files/
